@@ -1,0 +1,18 @@
+{
+	"name": "g105b/simple-behat",
+	"type": "project",
+
+	"require": {
+		"php": "^7.1"
+	},
+
+	"require-dev": {
+		"phpunit/phpunit": "~6.4",
+		"behat/behat": "~3.4",
+		"behat/mink": "~1.7",
+		"behat/mink-extension": "~2.0",
+		"behat/mink-goutte-driver": "*",
+		"behat/mink-selenium2-driver": "~1.3",
+		"peridot-php/webdriver-manager": "^1.3"
+	}
+}
